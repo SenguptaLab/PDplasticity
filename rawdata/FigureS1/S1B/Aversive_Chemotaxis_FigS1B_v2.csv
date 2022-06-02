@@ -1,0 +1,51 @@
+﻿Date,Genotype,Condition,Odor,Replicate,Concentration,Volume,CI
+20200828,N2,Control,Benzaldehyde,2,5uL Undiluted,5uL,-1
+20200901,N2,Control,Benzaldehyde,1,5uL Undiluted,5uL,-1
+20200901,N2,Control,Benzaldehyde,2,5uL Undiluted,5uL,-0.945945946
+20200901,N2,Control,Benzaldehyde,3,5uL Undiluted,5uL,-1
+20200904,N2,Control,Benzaldehyde,1,5uL Undiluted,5uL,-1
+20200904,N2,Control,Benzaldehyde,2,5uL Undiluted,5uL,-0.991150443
+20200904,N2,Control,Benzaldehyde,3,5uL Undiluted,5uL,-0.991803279
+20200828,N2,Post-dauer,Benzaldehyde,1,5uL Undiluted,5uL,-0.989924433
+20200828,N2,Post-dauer,Benzaldehyde,2,5uL Undiluted,5uL,-1
+20200828,N2,Post-dauer,Benzaldehyde,3,5uL Undiluted,5uL,-0.990654206
+20200901,N2,Post-dauer,Benzaldehyde,1,5uL Undiluted,5uL,-0.979522184
+20200901,N2,Post-dauer,Benzaldehyde,2,5uL Undiluted,5uL,-1
+20200901,N2,Post-dauer,Benzaldehyde,3,5uL Undiluted,5uL,-1
+20200904,N2,Post-dauer,Benzaldehyde,1,5uL Undiluted,5uL,-1
+20200904,N2,Post-dauer,Benzaldehyde,2,5uL Undiluted,5uL,-1
+20200904,N2,Post-dauer,Benzaldehyde,3,5uL Undiluted,5uL,-1
+20200207,N2,Control,Octanol,1,100%,1uL,-0.573770492
+20200207,N2,Control,Octanol,2,100%,1uL,-0.59375
+20200207,N2,Control,Octanol,3,100%,1uL,-0.644067797
+20200207,N2,Control,Octanol,4,100%,1uL,-0.973333333
+20200207,N2,Control,Octanol,5,100%,1uL,-0.690476191
+20200211,N2,Control,Octanol,1,100%,1uL,-0.875
+20200211,N2,Control,Octanol,2,100%,1uL,-0.884057971
+20200828,N2,Control,Octanol,1,100%,1uL,-0.766666667
+20200828,N2,Control,Octanol,2,100%,1uL,-0.901840491
+20200828,N2,Control,Octanol,3,100%,1uL,-0.933333333
+20200901,N2,Control,Octanol,1,100%,1uL,-0.754237288
+20200901,N2,Control,Octanol,2,100%,1uL,-0.52631579
+20200901,N2,Control,Octanol,3,100%,1uL,-0.714285714
+20200904,N2,Control,Octanol,1,100%,1uL,-0.875
+20200904,N2,Control,Octanol,2,100%,1uL,-0.923809524
+20200904,N2,Control,Octanol,3,100%,1uL,-0.963636364
+20200207,N2,Post-dauer,Octanol,1,100%,1uL,-0.324324324
+20200207,N2,Post-dauer,Octanol,2,100%,1uL,-0.829545455
+20200207,N2,Post-dauer,Octanol,3,100%,1uL,-0.769784173
+20200207,N2,Post-dauer,Octanol,4,100%,1uL,-0.25
+20200207,N2,Post-dauer,Octanol,5,100%,1uL,-0.184357542
+20200207,N2,Post-dauer,Octanol,6,100%,1uL,-0.163346614
+20200211,N2,Post-dauer,Octanol,1,100%,1uL,-0.955555556
+20200211,N2,Post-dauer,Octanol,2,100%,1uL,-0.963636364
+20200211,N2,Post-dauer,Octanol,3,100%,1uL,-0.958762887
+20200828,N2,Post-dauer,Octanol,1,100%,1uL,-0.402597403
+20200828,N2,Post-dauer,Octanol,2,100%,1uL,-0.524752475
+20200828,N2,Post-dauer,Octanol,3,100%,1uL,-0.529411765
+20200901,N2,Post-dauer,Octanol,1,100%,1uL,-0.374233129
+20200901,N2,Post-dauer,Octanol,2,100%,1uL,-0.638888889
+20200901,N2,Post-dauer,Octanol,3,100%,1uL,-0.064327485
+20200904,N2,Post-dauer,Octanol,1,100%,1uL,-0.794871795
+20200904,N2,Post-dauer,Octanol,2,100%,1uL,-0.716216216
+20200904,N2,Post-dauer,Octanol,3,100%,1uL,-0.791855204
