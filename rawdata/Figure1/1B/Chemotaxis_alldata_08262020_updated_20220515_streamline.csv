@@ -1,0 +1,561 @@
+﻿Date,Genotype,Condition,Odor,Replicate,Concentration,CI
+2/7/20,N2,Control,"2,3-Pentanedione",1,10^-3,1
+2/7/20,N2,Control,"2,3-Pentanedione",2,10^-3,0.971014493
+2/7/20,N2,Control,"2,3-Pentanedione",3,10^-3,0.972789116
+2/10/20,N2,Control,"2,3-Pentanedione",1,10^-3,1
+2/10/20,N2,Control,"2,3-Pentanedione",2,10^-3,1
+2/10/20,N2,Control,"2,3-Pentanedione",3,10^-3,0.988571429
+2/14/20,N2,Control,"2,3-Pentanedione",1,10^-3,1
+2/14/20,N2,Control,"2,3-Pentanedione",2,10^-3,0.911290323
+2/14/20,N2,Control,"2,3-Pentanedione",3,10^-3,0.88372093
+2/21/20,N2,Control,"2,3-Pentanedione",1,10^-3,0.969325153
+2/21/20,N2,Control,"2,3-Pentanedione",2,10^-3,0.97309417
+2/21/20,N2,Control,"2,3-Pentanedione",3,10^-3,0.933147632
+2/7/20,N2,Control,"2,3-Pentanedione",1,10^-4,0.72815534
+2/7/20,N2,Control,"2,3-Pentanedione",2,10^-4,0.681818182
+2/7/20,N2,Control,"2,3-Pentanedione",3,10^-4,0.675213675
+2/10/20,N2,Control,"2,3-Pentanedione",1,10^-4,0.801169591
+2/10/20,N2,Control,"2,3-Pentanedione",2,10^-4,0.739776952
+2/10/20,N2,Control,"2,3-Pentanedione",3,10^-4,0.876712329
+2/14/20,N2,Control,"2,3-Pentanedione",1,10^-4,0.856716418
+2/14/20,N2,Control,"2,3-Pentanedione",2,10^-4,0.594827586
+2/14/20,N2,Control,"2,3-Pentanedione",3,10^-4,0.684931507
+2/21/20,N2,Control,"2,3-Pentanedione",1,10^-4,0.655677656
+2/21/20,N2,Control,"2,3-Pentanedione",2,10^-4,0.725
+2/21/20,N2,Control,"2,3-Pentanedione",3,10^-4,0.700564972
+2/7/20,N2,Control,"2,3-Pentanedione",1,10^-5,0.365591398
+2/7/20,N2,Control,"2,3-Pentanedione",2,10^-5,0.127516779
+2/7/20,N2,Control,"2,3-Pentanedione",3,10^-5,-0.180327869
+2/10/20,N2,Control,"2,3-Pentanedione",1,10^-5,0.163636364
+2/10/20,N2,Control,"2,3-Pentanedione",2,10^-5,0.234042553
+2/10/20,N2,Control,"2,3-Pentanedione",3,10^-5,0.401709402
+2/14/20,N2,Control,"2,3-Pentanedione",1,10^-5,0.298969072
+2/14/20,N2,Control,"2,3-Pentanedione",2,10^-5,0.024221453
+2/14/20,N2,Control,"2,3-Pentanedione",3,10^-5,0.166666667
+2/21/20,N2,Control,"2,3-Pentanedione",1,10^-5,0.228915663
+2/21/20,N2,Control,"2,3-Pentanedione",2,10^-5,-0.07755102
+2/21/20,N2,Control,"2,3-Pentanedione",3,10^-5,0.02238806
+2/25/20,N2,Control,"2,4,5-Trimethylthiazole",1,10^-3,0.887240356
+2/25/20,N2,Control,"2,4,5-Trimethylthiazole",2,10^-3,0.923566879
+2/25/20,N2,Control,"2,4,5-Trimethylthiazole",3,10^-3,0.825641026
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",1,10^-3,0.765765766
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",2,10^-3,0.781420765
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",3,10^-3,0.843003413
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",4,10^-3,0.814323607
+3/17/20,N2,Control,"2,4,5-Trimethylthiazole",1,10^-3,0.725856698
+3/17/20,N2,Control,"2,4,5-Trimethylthiazole",2,10^-3,0.763157895
+3/17/20,N2,Control,"2,4,5-Trimethylthiazole",3,10^-3,0.845410628
+2/25/20,N2,Control,"2,4,5-Trimethylthiazole",1,10^-4,0.654723127
+2/25/20,N2,Control,"2,4,5-Trimethylthiazole",2,10^-4,0.62962963
+2/25/20,N2,Control,"2,4,5-Trimethylthiazole",3,10^-4,0.598566308
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",1,10^-4,0.394495413
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",2,10^-4,0.443983403
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",3,10^-4,0.537037037
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",4,10^-4,0.445887446
+3/17/20,N2,Control,"2,4,5-Trimethylthiazole",1,10^-4,0.375796178
+3/17/20,N2,Control,"2,4,5-Trimethylthiazole",2,10^-4,0.672025724
+3/17/20,N2,Control,"2,4,5-Trimethylthiazole",3,10^-4,0.62295082
+2/25/20,N2,Control,"2,4,5-Trimethylthiazole",1,10^-5,0.089005236
+2/25/20,N2,Control,"2,4,5-Trimethylthiazole",2,10^-5,0.15862069
+2/25/20,N2,Control,"2,4,5-Trimethylthiazole",3,10^-5,0.168949772
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",1,10^-5,0.082125604
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",2,10^-5,-0.009090909
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",3,10^-5,0.127659575
+2/28/20,N2,Control,"2,4,5-Trimethylthiazole",4,10^-5,0.043478261
+3/17/20,N2,Control,"2,4,5-Trimethylthiazole",1,10^-5,0.410526316
+3/17/20,N2,Control,"2,4,5-Trimethylthiazole",2,10^-5,0.065217391
+3/17/20,N2,Control,"2,4,5-Trimethylthiazole",3,10^-5,-0.037037037
+5/29/20,N2,Control,Benzaldehyde,1,1:200,0.884615385
+5/29/20,N2,Control,Benzaldehyde,2,1:200,0.894273128
+5/29/20,N2,Control,Benzaldehyde,3,1:200,0.852348993
+6/2/20,N2,Control,Benzaldehyde,2,1:200,0.967741936
+6/2/20,N2,Control,Benzaldehyde,3,1:200,0.94520548
+6/9/20,N2,Control,Benzaldehyde,1,1:200,0.965811966
+6/9/20,N2,Control,Benzaldehyde,2,1:200,0.975409836
+6/9/20,N2,Control,Benzaldehyde,3,1:200,0.97
+5/29/20,N2,Control,Benzaldehyde,1,"1:2,000",0.439330544
+5/29/20,N2,Control,Benzaldehyde,2,"1:2,000",0.766990291
+5/29/20,N2,Control,Benzaldehyde,3,"1:2,000",0.458646617
+6/2/20,N2,Control,Benzaldehyde,1,"1:2,000",0.422535211
+6/2/20,N2,Control,Benzaldehyde,2,"1:2,000",0.59375
+6/2/20,N2,Control,Benzaldehyde,3,"1:2,000",0.376146789
+6/9/20,N2,Control,Benzaldehyde,1,"1:2,000",0.511111111
+6/9/20,N2,Control,Benzaldehyde,2,"1:2,000",0.539130435
+6/9/20,N2,Control,Benzaldehyde,3,"1:2,000",0.538461539
+5/29/20,N2,Control,Benzaldehyde,1,"1:20,000",0.13368984
+5/29/20,N2,Control,Benzaldehyde,2,"1:20,000",0.37704918
+5/29/20,N2,Control,Benzaldehyde,3,"1:20,000",0.789473684
+6/2/20,N2,Control,Benzaldehyde,1,"1:20,000",0.128205128
+6/2/20,N2,Control,Benzaldehyde,2,"1:20,000",0.100917431
+6/2/20,N2,Control,Benzaldehyde,3,"1:20,000",0.071428571
+6/9/20,N2,Control,Benzaldehyde,2,"1:20,000",-0.119047619
+6/9/20,N2,Control,Benzaldehyde,3,"1:20,000",-0.009009009
+1/18/20,N2,Control,Diacetyl,1,10^-3,0.745098039
+1/18/20,N2,Control,Diacetyl,2,10^-3,0.871287129
+1/18/20,N2,Control,Diacetyl,3,10^-3,0.939393939
+1/21/20,N2,Control,Diacetyl,1,10^-3,0.837837838
+1/21/20,N2,Control,Diacetyl,2,10^-3,0.942028986
+1/21/20,N2,Control,Diacetyl,3,10^-3,0.960199005
+1/29/20,N2,Control,Diacetyl,1,10^-3,0.969072165
+1/29/20,N2,Control,Diacetyl,2,10^-3,0.943548387
+1/29/20,N2,Control,Diacetyl,3,10^-3,0.886925795
+1/29/20,N2,Control,Diacetyl,4,10^-3,0.840909091
+1/31/20,N2,Control,Diacetyl,1,10^-3,0.928825623
+2/10/20,N2,Control,Diacetyl,1,10^-3,0.942583732
+2/10/20,N2,Control,Diacetyl,2,10^-3,0.964912281
+2/10/20,N2,Control,Diacetyl,3,10^-3,0.914529915
+2/18/20,N2,Control,Diacetyl,1,10^-3,0.857988166
+2/18/20,N2,Control,Diacetyl,2,10^-3,0.937984496
+2/18/20,N2,Control,Diacetyl,3,10^-3,1
+2/25/20,N2,Control,Diacetyl,1,10^-3,0.987538941
+2/25/20,N2,Control,Diacetyl,2,10^-3,0.933085502
+2/25/20,N2,Control,Diacetyl,3,10^-3,0.894736842
+1/18/20,N2,Control,Diacetyl,1,10^-4,0.19133574
+1/18/20,N2,Control,Diacetyl,2,10^-4,0.373913044
+1/18/20,N2,Control,Diacetyl,3,10^-4,0.47761194
+1/18/20,N2,Control,Diacetyl,1,10^-4,0.22972973
+1/18/20,N2,Control,Diacetyl,2,10^-4,-0.053677932
+1/18/20,N2,Control,Diacetyl,3,10^-4,0.268518519
+1/21/20,N2,Control,Diacetyl,1,10^-4,0.740112994
+1/21/20,N2,Control,Diacetyl,2,10^-4,0.593495935
+1/21/20,N2,Control,Diacetyl,3,10^-4,0.674796748
+1/29/20,N2,Control,Diacetyl,1,10^-4,0.853881279
+1/29/20,N2,Control,Diacetyl,2,10^-4,0.893617021
+1/31/20,N2,Control,Diacetyl,1,10^-4,0.53125
+1/31/20,N2,Control,Diacetyl,2,10^-4,0.621052632
+1/31/20,N2,Control,Diacetyl,3,10^-4,0.580952381
+2/10/20,N2,Control,Diacetyl,1,10^-4,0.698924731
+2/10/20,N2,Control,Diacetyl,2,10^-4,0.487179487
+2/10/20,N2,Control,Diacetyl,3,10^-4,0.808823529
+2/18/20,N2,Control,Diacetyl,1,10^-4,0.791208791
+2/18/20,N2,Control,Diacetyl,2,10^-4,0.653179191
+2/18/20,N2,Control,Diacetyl,3,10^-4,0.685185185
+2/25/20,N2,Control,Diacetyl,1,10^-4,0.677852349
+2/25/20,N2,Control,Diacetyl,2,10^-4,0.74829932
+2/25/20,N2,Control,Diacetyl,3,10^-4,0.68
+1/18/20,N2,Control,Diacetyl,1,10^-5,-0.397727273
+1/18/20,N2,Control,Diacetyl,2,10^-5,-0.373333333
+1/18/20,N2,Control,Diacetyl,3,10^-5,-0.300309598
+1/21/20,N2,Control,Diacetyl,1,10^-5,0.545454546
+1/21/20,N2,Control,Diacetyl,2,10^-5,0.558139535
+1/21/20,N2,Control,Diacetyl,3,10^-5,0.128205128
+1/21/20,N2,Control,Diacetyl,4,10^-5,0.479674797
+1/21/20,N2,Control,Diacetyl,5,10^-5,0.401574803
+1/21/20,N2,Control,Diacetyl,6,10^-5,0.25203252
+1/29/20,N2,Control,Diacetyl,1,10^-5,0.478723404
+1/29/20,N2,Control,Diacetyl,2,10^-5,0.310810811
+1/29/20,N2,Control,Diacetyl,3,10^-5,0.679144385
+1/31/20,N2,Control,Diacetyl,1,10^-5,0.358024691
+1/31/20,N2,Control,Diacetyl,2,10^-5,0.5
+1/31/20,N2,Control,Diacetyl,3,10^-5,0.35042735
+2/10/20,N2,Control,Diacetyl,1,10^-5,0.272727273
+2/10/20,N2,Control,Diacetyl,2,10^-5,-0.163934426
+2/10/20,N2,Control,Diacetyl,3,10^-5,0.213483146
+2/18/20,N2,Control,Diacetyl,1,10^-5,-0.018181818
+2/18/20,N2,Control,Diacetyl,2,10^-5,-0.1
+2/18/20,N2,Control,Diacetyl,3,10^-5,-0.066666667
+2/25/20,N2,Control,Diacetyl,1,10^-5,0.115789474
+2/25/20,N2,Control,Diacetyl,2,10^-5,0.714285714
+2/25/20,N2,Control,Diacetyl,3,10^-5,0.432835821
+1/21/20,N2,Control,Diacetyl,1,10^-6,0.392156863
+1/21/20,N2,Control,Diacetyl,2,10^-6,-0.123287671
+1/21/20,N2,Control,Diacetyl,3,10^-6,-0.027027027
+1/29/20,N2,Control,Diacetyl,1,10^-6,0.350993378
+1/29/20,N2,Control,Diacetyl,2,10^-6,-0.191489362
+1/29/20,N2,Control,Diacetyl,3,10^-6,-0.050724638
+1/29/20,N2,Control,Diacetyl,4,10^-6,-0.045977011
+1/31/20,N2,Control,Diacetyl,1,10^-6,-0.096774194
+1/31/20,N2,Control,Diacetyl,2,10^-6,-0.134020619
+1/31/20,N2,Control,Diacetyl,3,10^-6,-0.349593496
+2/10/20,N2,Control,Diacetyl,1,10^-6,-0.288888889
+2/10/20,N2,Control,Diacetyl,2,10^-6,-0.298245614
+2/10/20,N2,Control,Diacetyl,3,10^-6,0.264705882
+2/18/20,N2,Control,Diacetyl,1,10^-6,0.104294479
+2/18/20,N2,Control,Diacetyl,2,10^-6,0.073170732
+2/18/20,N2,Control,Diacetyl,3,10^-6,0.345794393
+2/25/20,N2,Control,Diacetyl,1,10^-6,0.53271028
+2/25/20,N2,Control,Diacetyl,2,10^-6,0.567307692
+2/25/20,N2,Control,Diacetyl,3,10^-6,-0.282051282
+3/17/20,N2,Control,Isoamyl Alcohol,1,10^-2,0.971428571
+3/17/20,N2,Control,Isoamyl Alcohol,2,10^-2,0.93902439
+3/17/20,N2,Control,Isoamyl Alcohol,3,10^-2,1
+6/23/20,N2,Control,Isoamyl Alcohol,1,10^-2,0.988304094
+6/23/20,N2,Control,Isoamyl Alcohol,2,10^-2,0.983739837
+6/26/20,N2,Control,Isoamyl Alcohol,1,10^-2,0.777777778
+6/26/20,N2,Control,Isoamyl Alcohol,2,10^-2,0.956284153
+6/26/20,N2,Control,Isoamyl Alcohol,3,10^-2,0.928089888
+7/14/20,N2,Control,Isoamyl Alcohol,1,10^-2,0.90960452
+7/21/20,N2,Control,Isoamyl Alcohol,2,10^-2,0.986754967
+7/21/20,N2,Control,Isoamyl Alcohol,3,10^-2,0.841584158
+7/21/20,N2,Control,Isoamyl Alcohol,4,10^-2,0.93442623
+7/17/20,N2,Control,Isoamyl Alcohol,1,10^-2,0.777777778
+7/17/20,N2,Control,Isoamyl Alcohol,2,10^-2,0.956284153
+7/17/20,N2,Control,Isoamyl Alcohol,3,10^-2,0.928089888
+7/21/20,N2,Control,Isoamyl Alcohol,1,10^-2,0.982758621
+7/21/20,N2,Control,Isoamyl Alcohol,2,10^-2,0.969230769
+7/21/20,N2,Control,Isoamyl Alcohol,3,10^-2,0.944223108
+7/24/20,N2,Control,Isoamyl Alcohol,1,10^-2,0.985074627
+7/24/20,N2,Control,Isoamyl Alcohol,2,10^-2,1
+7/24/20,N2,Control,Isoamyl Alcohol,3,10^-2,0.972972973
+7/28/20,N2,Control,Isoamyl Alcohol,1,10^-2,0.97515528
+7/28/20,N2,Control,Isoamyl Alcohol,2,10^-2,0.964444444
+7/28/20,N2,Control,Isoamyl Alcohol,3,10^-2,0.94214876
+6/23/20,N2,Control,Isoamyl Alcohol,1,10^-3,0.762711864
+6/23/20,N2,Control,Isoamyl Alcohol,2,10^-3,0.860696517
+2/15/22,N2,Control,Isoamyl Alcohol,1,10^-3,0.87012987
+2/15/22,N2,Control,Isoamyl Alcohol,2,10^-3,0.907407407
+2/15/22,N2,Control,Isoamyl Alcohol,3,10^-3,0.905511811
+2/18/22,N2,Control,Isoamyl Alcohol,1,10^-3,0.662531017
+2/18/22,N2,Control,Isoamyl Alcohol,2,10^-3,0.80952381
+6/23/20,N2,Control,Isoamyl Alcohol,1,10^-4,0.136842105
+6/23/20,N2,Control,Isoamyl Alcohol,2,10^-4,0.509803922
+6/26/20,N2,Control,Isoamyl Alcohol,1,10^-4,0.425
+6/26/20,N2,Control,Isoamyl Alcohol,2,10^-4,0.642384106
+6/26/20,N2,Control,Isoamyl Alcohol,3,10^-4,0.708609272
+7/21/20,N2,Control,Isoamyl Alcohol,1,10^-4,0.543147208
+7/21/20,N2,Control,Isoamyl Alcohol,2,10^-4,0.533333333
+7/21/20,N2,Control,Isoamyl Alcohol,3,10^-4,0.295774648
+7/17/20,N2,Control,Isoamyl Alcohol,1,10^-4,0.425
+7/17/20,N2,Control,Isoamyl Alcohol,2,10^-4,0.642384106
+7/17/20,N2,Control,Isoamyl Alcohol,3,10^-4,0.708609272
+7/24/20,N2,Control,Isoamyl Alcohol,1,10^-4,0.409090909
+7/24/20,N2,Control,Isoamyl Alcohol,2,10^-4,0.502538071
+7/28/20,N2,Control,Isoamyl Alcohol,1,10^-4,0.449392713
+7/28/20,N2,Control,Isoamyl Alcohol,2,10^-4,0.009708738
+7/28/20,N2,Control,Isoamyl Alcohol,3,10^-4,0.424657534
+6/26/20,N2,Control,Isoamyl Alcohol,1,10^-5,0.258426966
+6/26/20,N2,Control,Isoamyl Alcohol,2,10^-5,0.333333333
+6/26/20,N2,Control,Isoamyl Alcohol,3,10^-5,-0.096774194
+7/21/20,N2,Control,Isoamyl Alcohol,1,10^-5,0.203703704
+7/21/20,N2,Control,Isoamyl Alcohol,2,10^-5,0.24137931
+7/21/20,N2,Control,Isoamyl Alcohol,3,10^-5,0.132530121
+7/21/20,N2,Control,Isoamyl Alcohol,4,10^-5,-0.016759777
+7/17/20,N2,Control,Isoamyl Alcohol,1,10^-5,0.258426966
+7/17/20,N2,Control,Isoamyl Alcohol,2,10^-5,0.333333333
+7/17/20,N2,Control,Isoamyl Alcohol,3,10^-5,-0.096774194
+7/21/20,N2,Control,Isoamyl Alcohol,1,10^-5,0.062937063
+7/21/20,N2,Control,Isoamyl Alcohol,2,10^-5,-0.103703704
+7/21/20,N2,Control,Isoamyl Alcohol,3,10^-5,0.016949153
+7/24/20,N2,Control,Isoamyl Alcohol,2,10^-5,0.094890511
+7/28/20,N2,Control,Isoamyl Alcohol,1,10^-5,0.182608696
+7/28/20,N2,Control,Isoamyl Alcohol,2,10^-5,0.102272727
+7/28/20,N2,Control,Isoamyl Alcohol,3,10^-5,0.176470588
+1/29/20,N2,Control,Pyrazine,1,10^-1,0.380165289
+1/29/20,N2,Control,Pyrazine,2,10^-1,0.657754011
+1/29/20,N2,Control,Pyrazine,3,10^-1,0.758333333
+1/31/20,N2,Control,Pyrazine,1,10^-1,0.523809524
+1/31/20,N2,Control,Pyrazine,2,10^-1,0.425531915
+1/31/20,N2,Control,Pyrazine,3,10^-1,0.517027864
+2/4/20,N2,Control,Pyrazine,1,10^-1,0.562043796
+2/4/20,N2,Control,Pyrazine,2,10^-1,0.304455446
+2/4/20,N2,Control,Pyrazine,3,10^-1,0.369817579
+2/25/20,N2,Control,Pyrazine,1,10^-1,0.641025641
+2/25/20,N2,Control,Pyrazine,2,10^-1,0.806896552
+2/25/20,N2,Control,Pyrazine,3,10^-1,0.857605178
+2/28/20,N2,Control,Pyrazine,1,10^-1,0.548717949
+2/28/20,N2,Control,Pyrazine,2,10^-1,0.337349398
+2/28/20,N2,Control,Pyrazine,3,10^-1,0.413654619
+2/28/20,N2,Control,Pyrazine,4,10^-1,0.300613497
+1/29/20,N2,Control,Pyrazine,1,10^-2,-0.019607843
+1/29/20,N2,Control,Pyrazine,2,10^-2,0.201646091
+1/29/20,N2,Control,Pyrazine,3,10^-2,0.521126761
+1/31/20,N2,Control,Pyrazine,1,10^-2,0.186206897
+1/31/20,N2,Control,Pyrazine,2,10^-2,0.2
+1/31/20,N2,Control,Pyrazine,3,10^-2,-0.337016575
+2/4/20,N2,Control,Pyrazine,1,10^-2,0.048245614
+2/4/20,N2,Control,Pyrazine,2,10^-2,-0.086294416
+2/4/20,N2,Control,Pyrazine,3,10^-2,0.13225058
+2/25/20,N2,Control,Pyrazine,1,10^-2,0.337837838
+2/25/20,N2,Control,Pyrazine,2,10^-2,0.391304348
+2/25/20,N2,Control,Pyrazine,3,10^-2,0.734177215
+2/28/20,N2,Control,Pyrazine,1,10^-2,0
+2/28/20,N2,Control,Pyrazine,2,10^-2,0.167630058
+2/28/20,N2,Control,Pyrazine,3,10^-2,0.274725275
+4/12/22,N2,Control,Pyrazine,1,10^-3,0.242718447
+4/12/22,N2,Control,Pyrazine,2,10^-3,-0.023809524
+4/12/22,N2,Control,Pyrazine,3,10^-3,-0.534090909
+4/12/22,N2,Control,Pyrazine,4,10^-3,0.298701299
+1/29/20,N2,Control,Pyrazine,1,10^-3,-0.127118644
+1/29/20,N2,Control,Pyrazine,2,10^-3,-0.107594937
+1/29/20,N2,Control,Pyrazine,3,10^-3,0.101123596
+1/31/20,N2,Control,Pyrazine,2,10^-3,0.263888889
+1/31/20,N2,Control,Pyrazine,3,10^-3,0.357142857
+5/13/22,N2,Control,Pyrazine,1,10^-3,0.374045802
+5/13/22,N2,Control,Pyrazine,2,10^-3,0.376
+1/29/20,N2,Control,Pyrazine,1,10mg/mL,0.708737864
+1/29/20,N2,Control,Pyrazine,2,10mg/mL,0.615384615
+1/29/20,N2,Control,Pyrazine,3,10mg/mL,0.753213368
+1/31/20,N2,Control,Pyrazine,1,10mg/mL,0.740740741
+1/31/20,N2,Control,Pyrazine,2,10mg/mL,0.666666667
+1/31/20,N2,Control,Pyrazine,3,10mg/mL,0.773913044
+2/4/20,N2,Control,Pyrazine,1,10mg/mL,0.409090909
+2/4/20,N2,Control,Pyrazine,2,10mg/mL,0.634920635
+2/4/20,N2,Control,Pyrazine,3,10mg/mL,0.491289199
+2/25/20,N2,Control,Pyrazine,1,10mg/mL,0.887179487
+2/25/20,N2,Control,Pyrazine,2,10mg/mL,0.887550201
+2/25/20,N2,Control,Pyrazine,3,10mg/mL,0.829787234
+2/28/20,N2,Control,Pyrazine,1,10mg/mL,0.744360902
+2/28/20,N2,Control,Pyrazine,2,10mg/mL,0.764285714
+2/28/20,N2,Control,Pyrazine,3,10mg/mL,0.890756303
+5/13/22,N2,Control,Pyrazine,1,10mg/mL,0.969348659
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-3,1
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-3,1
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-3,0.96
+2/10/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-3,1
+2/10/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-3,0.90625
+2/14/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-3,0.990430622
+2/14/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-3,0.945454546
+2/14/20,N2,Post-dauer,"2,3-Pentanedione",3,10^-3,0.955974843
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-3,0.974358974
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-3,1
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",3,10^-3,1
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",4,10^-3,1
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",5,10^-3,0.982832618
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-4,1
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-4,0.857142857
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",3,10^-4,0.945945946
+2/10/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-4,0.8
+2/10/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-4,0.472
+2/14/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-4,0.913513514
+2/14/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-4,0.977011494
+2/14/20,N2,Post-dauer,"2,3-Pentanedione",3,10^-4,0.836930456
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-4,1
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-4,0.971631206
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",3,10^-4,1
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",4,10^-4,0.914893617
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",5,10^-4,0.913043478
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",6,10^-4,1
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-5,1
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-5,1
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",3,10^-5,1
+2/7/20,N2,Post-dauer,"2,3-Pentanedione",4,10^-5,1
+2/10/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-5,-0.024
+2/10/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-5,-0.43956044
+2/14/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-5,0.524475525
+2/14/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-5,0.583710407
+2/14/20,N2,Post-dauer,"2,3-Pentanedione",3,10^-5,-0.103857567
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",1,10^-5,0.470588235
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",2,10^-5,0.56043956
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",3,10^-5,1
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",4,10^-5,0.571014493
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",5,10^-5,0.553191489
+2/21/20,N2,Post-dauer,"2,3-Pentanedione",6,10^-5,0.93495935
+2/25/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",1,10^-3,1
+2/25/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",2,10^-3,0.945783133
+2/25/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",3,10^-3,0.981693364
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",1,10^-3,0.943262411
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",2,10^-3,0.961538462
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",3,10^-3,0.95951417
+3/17/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",1,10^-3,1
+3/17/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",2,10^-3,0.942857143
+3/17/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",3,10^-3,0.954545455
+2/25/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",1,10^-4,0.815217391
+2/25/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",2,10^-4,0.823321555
+2/25/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",3,10^-4,0.45026178
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",1,10^-4,0.6
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",2,10^-4,0.863636364
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",3,10^-4,0.891891892
+3/17/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",1,10^-4,0.550877193
+3/17/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",2,10^-4,0.666666667
+3/17/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",3,10^-4,0.702898551
+2/25/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",1,10^-5,0.697297297
+2/25/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",2,10^-5,0.737991266
+2/25/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",3,10^-5,0.637614679
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",1,10^-5,0.225589226
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",2,10^-5,0.463414634
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",3,10^-5,0.688
+2/28/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",4,10^-5,0.229357798
+3/17/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",1,10^-5,0.651006711
+3/17/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",2,10^-5,0.441860465
+3/17/20,N2,Post-dauer,"2,4,5-Trimethylthiazole",3,10^-5,0.301204819
+5/29/20,N2,Post-dauer,Benzaldehyde,1,1:200,0.924242424
+5/29/20,N2,Post-dauer,Benzaldehyde,2,1:200,0.928994083
+5/29/20,N2,Post-dauer,Benzaldehyde,3,1:200,0.981481482
+6/9/20,N2,Post-dauer,Benzaldehyde,1,1:200,1
+6/9/20,N2,Post-dauer,Benzaldehyde,2,1:200,1
+6/9/20,N2,Post-dauer,Benzaldehyde,3,1:200,0.967032967
+6/16/20,N2,Post-dauer,Benzaldehyde,1,1:200,0.911564626
+6/16/20,N2,Post-dauer,Benzaldehyde,2,1:200,0.7799511
+6/16/20,N2,Post-dauer,Benzaldehyde,3,1:200,0.659229209
+5/29/20,N2,Post-dauer,Benzaldehyde,1,"1:2,000",0.843971631
+5/29/20,N2,Post-dauer,Benzaldehyde,2,"1:2,000",0.797297297
+5/29/20,N2,Post-dauer,Benzaldehyde,3,"1:2,000",0.869281046
+6/9/20,N2,Post-dauer,Benzaldehyde,3,"1:2,000",0.615384615
+6/16/20,N2,Post-dauer,Benzaldehyde,1,"1:2,000",0.568181818
+6/16/20,N2,Post-dauer,Benzaldehyde,2,"1:2,000",0.66984127
+6/16/20,N2,Post-dauer,Benzaldehyde,3,"1:2,000",0.607038123
+5/29/20,N2,Post-dauer,Benzaldehyde,1,"1:20,000",0.527950311
+5/29/20,N2,Post-dauer,Benzaldehyde,2,"1:20,000",0.432258065
+5/29/20,N2,Post-dauer,Benzaldehyde,3,"1:20,000",0.665338645
+6/16/20,N2,Post-dauer,Benzaldehyde,1,"1:20,000",0.2
+6/16/20,N2,Post-dauer,Benzaldehyde,2,"1:20,000",0.431906615
+6/16/20,N2,Post-dauer,Benzaldehyde,3,"1:20,000",0.321637427
+1/21/20,N2,Post-dauer,Diacetyl,1,10^-3,0.895196507
+1/21/20,N2,Post-dauer,Diacetyl,2,10^-3,0.933333333
+1/21/20,N2,Post-dauer,Diacetyl,3,10^-3,0.910447761
+1/31/20,N2,Post-dauer,Diacetyl,1,10^-3,0.854545455
+2/10/20,N2,Post-dauer,Diacetyl,1,10^-3,0.862068966
+2/10/20,N2,Post-dauer,Diacetyl,2,10^-3,0.841269841
+2/18/20,N2,Post-dauer,Diacetyl,1,10^-3,0.913793103
+2/18/20,N2,Post-dauer,Diacetyl,2,10^-3,0.969230769
+2/18/20,N2,Post-dauer,Diacetyl,3,10^-3,0.964071856
+2/25/20,N2,Post-dauer,Diacetyl,1,10^-3,0.967105263
+2/25/20,N2,Post-dauer,Diacetyl,2,10^-3,0.986046512
+2/25/20,N2,Post-dauer,Diacetyl,3,10^-3,0.975124378
+1/21/20,N2,Post-dauer,Diacetyl,1,10^-4,0.255605381
+1/21/20,N2,Post-dauer,Diacetyl,2,10^-4,0.513761468
+1/21/20,N2,Post-dauer,Diacetyl,3,10^-4,0.303448276
+1/31/20,N2,Post-dauer,Diacetyl,1,10^-4,0.483870968
+1/31/20,N2,Post-dauer,Diacetyl,2,10^-4,0.315789474
+1/31/20,N2,Post-dauer,Diacetyl,3,10^-4,0.260869565
+2/10/20,N2,Post-dauer,Diacetyl,1,10^-4,0.054393305
+2/10/20,N2,Post-dauer,Diacetyl,2,10^-4,0.083870968
+2/18/20,N2,Post-dauer,Diacetyl,1,10^-4,0.523809524
+2/18/20,N2,Post-dauer,Diacetyl,2,10^-4,0.894736842
+2/18/20,N2,Post-dauer,Diacetyl,3,10^-4,0.674418605
+2/18/20,N2,Post-dauer,Diacetyl,4,10^-4,0.479452055
+2/18/20,N2,Post-dauer,Diacetyl,5,10^-4,0.967741936
+2/18/20,N2,Post-dauer,Diacetyl,6,10^-4,1
+2/25/20,N2,Post-dauer,Diacetyl,1,10^-4,0.846153846
+2/25/20,N2,Post-dauer,Diacetyl,2,10^-4,0.80952381
+2/25/20,N2,Post-dauer,Diacetyl,3,10^-4,0.720524018
+1/21/20,N2,Post-dauer,Diacetyl,1,10^-5,0.644628099
+1/21/20,N2,Post-dauer,Diacetyl,2,10^-5,0.508305648
+1/21/20,N2,Post-dauer,Diacetyl,3,10^-5,0.467811159
+1/21/20,N2,Post-dauer,Diacetyl,4,10^-5,0.322751323
+1/21/20,N2,Post-dauer,Diacetyl,5,10^-5,0.452830189
+1/21/20,N2,Post-dauer,Diacetyl,6,10^-5,-0.120481928
+1/31/20,N2,Post-dauer,Diacetyl,1,10^-5,0.090909091
+2/10/20,N2,Post-dauer,Diacetyl,1,10^-5,-0.234567901
+2/10/20,N2,Post-dauer,Diacetyl,2,10^-5,0.140350877
+2/18/20,N2,Post-dauer,Diacetyl,1,10^-5,0.421487603
+2/18/20,N2,Post-dauer,Diacetyl,2,10^-5,0.443298969
+2/18/20,N2,Post-dauer,Diacetyl,3,10^-5,0.640625
+2/18/20,N2,Post-dauer,Diacetyl,4,10^-5,0.656108597
+2/18/20,N2,Post-dauer,Diacetyl,5,10^-5,0.913043478
+2/18/20,N2,Post-dauer,Diacetyl,6,10^-5,0.375
+2/25/20,N2,Post-dauer,Diacetyl,1,10^-5,0.597402597
+2/25/20,N2,Post-dauer,Diacetyl,2,10^-5,0.515789474
+2/25/20,N2,Post-dauer,Diacetyl,3,10^-5,0.373134328
+1/21/20,N2,Post-dauer,Diacetyl,1,10^-6,0.092436975
+1/21/20,N2,Post-dauer,Diacetyl,2,10^-6,0.43902439
+1/21/20,N2,Post-dauer,Diacetyl,3,10^-6,0.492537313
+1/31/20,N2,Post-dauer,Diacetyl,1,10^-6,0.188405797
+1/31/20,N2,Post-dauer,Diacetyl,2,10^-6,0.282051282
+1/31/20,N2,Post-dauer,Diacetyl,3,10^-6,0.014925373
+2/18/20,N2,Post-dauer,Diacetyl,1,10^-6,0.368421053
+2/18/20,N2,Post-dauer,Diacetyl,2,10^-6,0.150684932
+2/18/20,N2,Post-dauer,Diacetyl,3,10^-6,-0.272727273
+2/18/20,N2,Post-dauer,Diacetyl,4,10^-6,0.329032258
+2/18/20,N2,Post-dauer,Diacetyl,5,10^-6,0.722222222
+2/18/20,N2,Post-dauer,Diacetyl,6,10^-6,0.82278481
+2/25/20,N2,Post-dauer,Diacetyl,1,10^-6,0.440366973
+2/25/20,N2,Post-dauer,Diacetyl,2,10^-6,0.275
+2/25/20,N2,Post-dauer,Diacetyl,3,10^-6,-0.185185185
+3/17/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-2,0.844559586
+3/17/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-2,0.696202532
+3/17/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-2,0.851851852
+6/23/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-2,0.97752809
+6/23/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-2,0.974358974
+6/23/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-2,0.983471074
+6/26/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-2,0.972299169
+6/26/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-2,1
+6/26/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-2,0.980676329
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-2,0.991341991
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-2,0.942675159
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-2,0.779104478
+7/17/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-2,1
+7/17/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-2,1
+7/17/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-2,1
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-2,0.801020408
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-2,0.930232558
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-2,0.920903955
+7/24/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-2,1
+7/24/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-2,0.986348123
+7/24/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-2,0.964285714
+7/28/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-2,0.971428571
+7/28/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-2,0.973741794
+7/28/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-2,0.95
+6/23/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-3,0.777777778
+6/23/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-3,0.759776536
+6/23/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-3,0.769230769
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-3,0.651115619
+2/15/22,N2,Post-dauer,Isoamyl Alcohol,1,10^-3,0.857142857
+2/15/22,N2,Post-dauer,Isoamyl Alcohol,2,10^-3,0.936936937
+2/15/22,N2,Post-dauer,Isoamyl Alcohol,3,10^-3,0.925925926
+2/18/22,N2,Post-dauer,Isoamyl Alcohol,1,10^-3,0.95945946
+2/18/22,N2,Post-dauer,Isoamyl Alcohol,2,10^-3,0.907894737
+6/23/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-4,0.601941748
+6/23/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-4,0.766081871
+6/23/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-4,0.711538462
+6/26/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-4,0.848101266
+6/26/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-4,0.86627907
+6/26/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-4,0.836363636
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-4,0.219858156
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-4,0.135135135
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-4,0.389830509
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,4,10^-4,0.229508197
+7/24/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-4,0.541984733
+7/24/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-4,0.164179105
+7/24/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-4,0.12568306
+7/24/20,N2,Post-dauer,Isoamyl Alcohol,4,10^-4,0.73015873
+7/28/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-4,0.627329193
+7/28/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-4,0.267973856
+7/28/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-4,0.492610837
+6/26/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-5,0.612903226
+6/26/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-5,0.725752508
+6/26/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-5,0.514285714
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-5,0.241666667
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-5,0.082278481
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-5,0.279352227
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,4,10^-5,0.021276596
+7/17/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-5,0.267857143
+7/17/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-5,0.102941177
+7/17/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-5,0.915789474
+7/17/20,N2,Post-dauer,Isoamyl Alcohol,4,10^-5,0.311111111
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-5,-0.009345794
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-5,0.152671756
+7/21/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-5,-0.035856574
+7/24/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-5,0.576036866
+7/24/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-5,0.08411215
+7/28/20,N2,Post-dauer,Isoamyl Alcohol,1,10^-5,-0.068965517
+7/28/20,N2,Post-dauer,Isoamyl Alcohol,2,10^-5,0.226666667
+7/28/20,N2,Post-dauer,Isoamyl Alcohol,3,10^-5,0.456896552
+1/29/20,N2,Post-dauer,Pyrazine,1,10^-1,0.333333333
+1/29/20,N2,Post-dauer,Pyrazine,2,10^-1,-0.036144578
+1/29/20,N2,Post-dauer,Pyrazine,3,10^-1,0.010989011
+1/31/20,N2,Post-dauer,Pyrazine,1,10^-1,0.843137255
+2/25/20,N2,Post-dauer,Pyrazine,1,10^-1,0.905511811
+2/25/20,N2,Post-dauer,Pyrazine,2,10^-1,0.84501845
+2/25/20,N2,Post-dauer,Pyrazine,3,10^-1,0.913043478
+2/25/20,N2,Post-dauer,Pyrazine,4,10^-1,0.785714286
+2/28/20,N2,Post-dauer,Pyrazine,1,10^-1,0.333333333
+2/28/20,N2,Post-dauer,Pyrazine,2,10^-1,0.271604938
+2/28/20,N2,Post-dauer,Pyrazine,3,10^-1,0.358490566
+2/28/20,N2,Post-dauer,Pyrazine,4,10^-1,0.49122807
+1/29/20,N2,Post-dauer,Pyrazine,1,10^-2,0.393442623
+1/29/20,N2,Post-dauer,Pyrazine,2,10^-2,0.161616162
+1/29/20,N2,Post-dauer,Pyrazine,3,10^-2,0.374301676
+2/25/20,N2,Post-dauer,Pyrazine,1,10^-2,0.575308642
+2/25/20,N2,Post-dauer,Pyrazine,2,10^-2,0.512345679
+2/25/20,N2,Post-dauer,Pyrazine,3,10^-2,0.486486487
+2/25/20,N2,Post-dauer,Pyrazine,4,10^-2,0.339805825
+2/28/20,N2,Post-dauer,Pyrazine,1,10^-2,0.395121951
+2/28/20,N2,Post-dauer,Pyrazine,2,10^-2,-0.118012422
+2/28/20,N2,Post-dauer,Pyrazine,3,10^-2,-0.393258427
+2/28/20,N2,Post-dauer,Pyrazine,4,10^-2,0.020689655
+4/12/22,N2,Post-dauer,Pyrazine,1,10^-3,0.754385965
+4/12/22,N2,Post-dauer,Pyrazine,2,10^-3,0.387755102
+4/12/22,N2,Post-dauer,Pyrazine,3,10^-3,0.439252336
+1/29/20,N2,Post-dauer,Pyrazine,1,10^-3,0.208791209
+1/29/20,N2,Post-dauer,Pyrazine,2,10^-3,0.107438017
+5/13/22,N2,Post-dauer,Pyrazine,1,10^-3,0.6
+1/29/20,N2,Post-dauer,Pyrazine,1,10mg/mL,0.632432432
+1/29/20,N2,Post-dauer,Pyrazine,2,10mg/mL,0.685950413
+2/25/20,N2,Post-dauer,Pyrazine,1,10mg/mL,0.886363636
+2/25/20,N2,Post-dauer,Pyrazine,2,10mg/mL,0.926380368
+2/25/20,N2,Post-dauer,Pyrazine,3,10mg/mL,0.943396226
+2/25/20,N2,Post-dauer,Pyrazine,4,10mg/mL,0.916666667
+2/28/20,N2,Post-dauer,Pyrazine,1,10mg/mL,0.733333333
+2/28/20,N2,Post-dauer,Pyrazine,2,10mg/mL,0.680672269
+2/28/20,N2,Post-dauer,Pyrazine,3,10mg/mL,0.436123348
