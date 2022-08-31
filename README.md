@@ -3,7 +3,7 @@ Repository of functions and data for the manuscript: Developmental history modul
 
 Travis Kyani-Rogers, Alison Philbrook, Ian G. McLachlan, Steven W. Flavell, Michael P. O’Donnell and Piali Sengupta
 
-Raw data are available in the /rawdata folder in this repository, organized by figure. Analyses and figure generation were performed in R and PRISM. Code is available in /code folder. Photomask designs for the dauer olfactory chip are available in the /supplementaryfiles folder.
+Raw data are available in the /rawdata folder in this repository, organized by figure. Analyses and figure generation were performed in R and PRISM. Photomask designs for the dauer olfactory chip are available in the /supplementaryfiles folder.
 
 The package needed to perform calcium imaging analyses on raw data files can be installed in R using devtools::install_github("SenguptaLab/HEXplasticity"). Depedency functions are located in the analysis R packages https://github.com/SenguptaLab/MF.matR.git
 
